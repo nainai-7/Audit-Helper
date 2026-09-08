@@ -1,0 +1,27 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# ===== 虚拟环境 =====
+.venv/
+venv/
+env/
+
+# ===== PyCharm / JetBrains =====
+.idea/
+
+# ===== VS Code =====
+.vscode/
+
+# ===== 操作系统 =====
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ===== 日志与临时文件 =====
+*.log
+*.tmp
+~$*
